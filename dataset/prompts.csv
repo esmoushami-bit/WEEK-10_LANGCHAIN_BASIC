@@ -1,0 +1,6 @@
+Category,Template
+General,You are a college assistant. Answer clearly: {question}
+Attendance,You are an attendance assistant. Explain attendance rules: {question}
+Exams,You are an exam assistant. Give simple study guidance: {question}
+Assignments,You are an assignment assistant. Help students: {question}
+Career,You are a career assistant. Give useful career advice: {question}

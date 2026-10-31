@@ -1,0 +1,24 @@
+Feature,Week 9,Week 10,Task,Question,Response
+Framework,Python with Ollama,LangChain,,,
+LLM Model,Llama 3.2,Llama 3.2,,,
+Prompt Templates,Basic Prompt,Five Templates,,,
+Response Logging,CSV and Text,CSV,,,
+Chain Support,Not Used,Summarization and QA,,,
+,,,Summarization,"
+    College education helps students develop knowledge,
+    communication skills, critical thinking and confidence.
+    It provides opportunities to participate in activities,
+    work with others and prepare for future careers.
+    Students also learn time management, problem solving
+    and responsibility through their college experiences.
+    ","Here are 5 clear points summarizing the text in simple English:
+
+1. College education helps people learn new things and be more knowledgeable.
+2. It also teaches people how to communicate well with others.
+3. Students in college learn to think critically and be more confident.
+4. They get to participate in activities, work with others, and practice skills for their future jobs.
+5. College also helps people learn how to manage their time, solve problems, and be more responsible."
+,,,Question Answering,What are the important skills students need for a successful career? in 3 lines,I don't know. The context doesn't mention specific skills needed for a successful career.
+,,,Question Answering,",What is attendance?",I don't know. The context doesn't mention attendance.
+Question Answering,"Students need communication, teamwork, and problem-solving skills, as well as technical skills, for a successful career."
+Week Comparison,"Week 9 responses: 5, Week 10 responses: 20"

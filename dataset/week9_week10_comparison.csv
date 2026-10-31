@@ -1,0 +1,6 @@
+Feature,Week 9,Week 10
+Framework,Ollama,LangChain
+LLM Model,Llama 3.2,Llama 3.2
+Prompt Templates,Basic Prompts,Multiple Templates
+Response Logging,CSV Logging,CSV Logging
+Chain Support,Not Used,Supported
